@@ -1,3 +1,6 @@
+<img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/ZOFIMjV.png" />
+&nbsp;&nbsp;&nbsp;
+
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">✨ A passionate student immersed in the captivating world of programming. My journey involves diving deep into the intricacies of software development, driven by a curious and inquisitive mind.</h3>
 
