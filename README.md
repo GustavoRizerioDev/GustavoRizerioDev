@@ -1,11 +1,7 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=35&duration=3000&pause=1000&color=6C3578&background=FFA8E400&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=Oi+amigos;I'm+studying+systems+analysis+and+development;I'm+always+learning+something+new;Here+I+record+everything+I+do;Be+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=35&duration=3000&pause=1000&color=fffcfc&background=FFA8E400&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=Oi+meu+nome+é+Gustavo;I'm+studying+systems+analysis+and+development;I'm+always+learning+something+new;Here+I+record+everything+I+do;Be+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-<p align="center">🚀 Breathing Technology. <br><br> Currently, I am a student of <strong>Systems Analysis and Development</strong> at <strong>SPtech School</strong>. I am focused on improving my skills in JavaScript, Html, Css and Mysql in the development of various projects. <br>
-Learning about APIs, Arduinos and much more!
-</p>&nbsp;
 
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">✨ A passionate student immersed in the captivating world of programming. My journey involves diving deep into the intricacies of software development, driven by a curious and inquisitive mind.</h3>
 
 <h3 align="left">Connect with me:</h3>
