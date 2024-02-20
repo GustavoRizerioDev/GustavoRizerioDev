@@ -4,11 +4,6 @@
 
 <h3 align="center">✨ A passionate student immersed in the captivating world of programming. My journey involves diving deep into the intricacies of software development, driven by a curious and inquisitive mind.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/gustta_rizerio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustta_rizerio" height="30" width="40" /></a>
-</p>
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -30,4 +25,14 @@
   <img width="12" />
 </div>
 
-###
+ ##
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRizerioDev&bg_color=auto&color=dfd0e2&line=6c3578&point=dfd0e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoRizerioDev&show_icons=true&count_private=true&hide_border=true&title_color=6C3578&icon_color=6C3578&text_color=CFACD6&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRizerioDeva&layout=compact&hide_border=true&title_color=6C3578&text_color=CFACD6&bg_color=0d1117" />
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A0128&height=150&section=footer"/>
