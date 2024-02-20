@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/272376413_5053390654683288_1730888549058131149_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHsWn70YlwIpsseftXxWXSwOzdKjSttBxU7N0qNK20HFeJFySoXjhVBVy6BZgaRMf-eFscuuuw2SfABXguLE90z&_nc_ohc=N9Lmk7o7nHEAX_lCOYA&_nc_ht=scontent-gru2-1.xx&oh=00_AfAhBiT-ikXTrMaGLv0slSafvR7HejYdrfh73gp6vaWQuQ&oe=65D861EE)](https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/272376413_5053390654683288_1730888549058131149_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHsWn70YlwIpsseftXxWXSwOzdKjSttBxU7N0qNK20HFeJFySoXjhVBVy6BZgaRMf-eFscuuuw2SfABXguLE90z&_nc_ohc=N9Lmk7o7nHEAX_lCOYA&_nc_ht=scontent-gru2-1.xx&oh=00_AfAhBiT-ikXTrMaGLv0slSafvR7HejYdrfh73gp6vaWQuQ&oe=65D861EE)"  />
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/272376413_5053390654683288_1730888549058131149_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHsWn70YlwIpsseftXxWXSwOzdKjSttBxU7N0qNK20HFeJFySoXjhVBVy6BZgaRMf-eFscuuuw2SfABXguLE90z&_nc_ohc=N9Lmk7o7nHEAX_lCOYA&_nc_ht=scontent-gru2-1.xx&oh=00_AfAhBiT-ikXTrMaGLv0slSafvR7HejYdrfh73gp6vaWQuQ&oe=65D861EE)](https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/272376413_5053390654683288_1730888549058131149_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHsWn70YlwIpsseftXxWXSwOzdKjSttBxU7N0qNK20HFeJFySoXjhVBVy6BZgaRMf-eFscuuuw2SfABXguLE90z&_nc_ohc=N9Lmk7o7nHEAX_lCOYA&_nc_ht=scontent-gru2-1.xx&oh=00_AfAhBiT-ikXTrMaGLv0slSafvR7HejYdrfh73gp6vaWQuQ&oe=65D861EE"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
@@ -10,6 +10,10 @@
 <a href="[https://linkedin.com/in/gustavo rizerio](https://www.linkedin.com/in/gustavo-rizerio/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo rizerio" height="30" width="40" /></a>
 <a href="https://instagram.com/gustta_rizerio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustta_rizerio" height="30" width="40" /></a>
 </p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
