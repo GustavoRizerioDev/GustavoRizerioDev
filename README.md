@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% height=400px src="https://i.imgur.com/ZOFIMjV.png" />
+<img align="center" style="margin-bottom:100px" width=60% height=400px src="https://i.imgur.com/ZOFIMjV.png" />
 &nbsp;&nbsp;&nbsp;
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
