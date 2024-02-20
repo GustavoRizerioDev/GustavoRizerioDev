@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://ibb.co/XVPBBJP](https://i.ibb.co/ZNrssTr/272376413-5053390654683288-1730888549058131149-n.png"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">✨ A passionate student immersed in the captivating world of programming. My journey involves diving deep into the intricacies of software development, driven by a curious and inquisitive mind.</h3>
 
