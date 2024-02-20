@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://ibb.co/XVPBBJP"/>
+  ![Sptech](https://ibb.co/XVPBBJP)
 </div>
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
