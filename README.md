@@ -11,19 +11,22 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="nodejs logo"  />
 </div>
+
+<h2 align="left">📊 GitHub Status:</h2>
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoRizerioDev&theme=tokyonight&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRizerioDev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
  ##
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRizerioDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
