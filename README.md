@@ -11,15 +11,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres logo"  />
 </div>
 
 <h2 align="left">📊 GitHub Status:</h2>
