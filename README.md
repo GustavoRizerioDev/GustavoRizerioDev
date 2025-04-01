@@ -22,6 +22,24 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres logo"  />
 </div>
 
+###
+
+<h2 align="left">I am learning</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+</div>
+
+
+###
+
+
+
 <h2 align="left">📊 GitHub Status:</h2>
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoRizerioDev&theme=tokyonight&hide_border=false)
