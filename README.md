@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="java logo"  />
+   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres logo"  />
@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka logo"  />
 </div>
 
 
