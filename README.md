@@ -30,10 +30,9 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
 </div>
 
 
